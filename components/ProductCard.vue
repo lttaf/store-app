@@ -21,12 +21,8 @@
       <v-btn v-show="qty > 0" color="pink" x-small outlined @click="removeProduct" icon>
         <v-icon small>mdi-minus</v-icon>
       </v-btn>
-          <!-- <v-text v-show="qty > 0" class="ml-2 mr-2">{{
-            qty
-          }}</v-text> -->
       <v-btn @click="addToCart" class="mr-3" icon>
         <v-badge color="teal" :value="qty > 0" :content="qty">
-        <!-- <v-icon v-if="qty > 0" medium>mdi-plus</v-icon> -->
         <v-icon medium>mdi-cart-arrow-down</v-icon>
         </v-badge>
       </v-btn>
@@ -38,11 +34,6 @@
 import { formatter } from "@/utils";
 
 export default {
-  // data() {
-  //   return {
-  //     clicked: false,
-  //   };
-  // },
   props: {
     item: {},
   },
