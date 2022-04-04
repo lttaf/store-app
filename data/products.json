@@ -1,0 +1,37 @@
+[
+    {
+      "id": "54ca2a14-f39b-462c",
+      "name": "Chair 1",
+      "brandId": "2aa91e23-ba13-418b",
+      "price": "88",
+      "imgSrc": "product_img1"
+    },
+    {
+      "id": "1acf27ec-b0e6-4815",
+      "name": "Chair 2",
+      "brandId": "ed701e80-3440-4373",
+      "price": "42",
+      "imgSrc": "product_img1"
+    },
+    {
+      "id": "d7865591-4484-41dd",
+      "name": "Chair 3",
+      "brandId": "2aa91e23-ba13-418b",
+      "price": "20",
+      "imgSrc": "product_img1"
+    },
+    {
+      "id": "fb5ab8e7-26ff-45ea",
+      "name": "Chair 4",
+      "brandId": "0ac7d433-5548-44c1",
+      "price": "100",
+      "imgSrc": "product_img1"
+    },
+    {
+      "id": "44842a14-f39b-462c",
+      "name": "Chair 5",
+      "brandId": "ed701e80-3440-4373",
+      "price": "70",
+      "imgSrc": "product_img1"
+    }
+]
